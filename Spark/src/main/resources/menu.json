@@ -1,0 +1,50 @@
+{
+  "btnList": [
+    {
+      "name": "用户管理",
+      "children": [
+        {
+          "id": "yhgladd",
+          "name": "添加"
+        },
+        {
+          "id": "yhgledit",
+          "name": "编辑"
+        },
+        {
+          "id": "yhgldelete",
+          "name": "暂停"
+        },
+        {
+          "id": "yhglstart",
+          "name": "启用"
+        },
+        {
+          "id": "yhglsee",
+          "name": "查看"
+        }
+      ]
+    },
+    {
+      "name": "角色管理",
+      "children": [
+        {
+          "id": "jsgladd",
+          "name": "添加"
+        },
+        {
+          "id": "jsgledit",
+          "name": "编辑"
+        },
+        {
+          "id": "jsglauth",
+          "name": "授权"
+        },
+        {
+          "id": "jsgldelete",
+          "name": "删除"
+        }
+      ]
+    }
+  ]
+}
